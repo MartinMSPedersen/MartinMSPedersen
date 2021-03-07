@@ -18,12 +18,15 @@ Here are some ideas to get you started:
 - I'm currently working on an [ElectronJS course][su0806]
 - 2021 Goals: Finish a book with 150 trax puzzles
 
+
 ### Connect with me:
 
 [<img align="left" alt="martinmspedersen | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="martinmspedersen | twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
+
+![Martin's GitHub status](https://github-readme-stats.vercel.app/api?username=MartinMSPedersen&theme=chartreuse-dark&show_icons=true&count_private=true&include_all_commits=true&custom_title=Martin%27s%20GitHub%20stats)
 
 ### Languages and Tools:
 

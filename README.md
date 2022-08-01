@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm currently working on an [ElectronJS course][su0806]
+- I'm currently working on an [Ansible course][su0114]
 - 2022 Goals: Finish a book with 150 trax puzzles
 
 
@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-[su0806]: https://www.superusers.dk/kursus/su0806/ 
+[su0806]: https://www.superusers.dk/kursus/su0806/  
+[su0114]: https://www.superusers.dk/kursus/su0114/  
 [linkedin]: https://linkedin.com/in/martinmspedersen
 [twitter]: https://twitter.com/trxplayer

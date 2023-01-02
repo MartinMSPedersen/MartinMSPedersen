@@ -28,10 +28,6 @@ Here are some ideas to get you started:
 
 ![Martin's GitHub status](https://github-readme-stats.vercel.app/api?username=MartinMSPedersen&theme=chartreuse-dark&show_icons=true&count_private=true&include_all_commits=true&custom_title=Martin%27s%20GitHub%20stats)
 
-[su0806]: https://www.superusers.dk/kursus/su0806/  
-[su0114]: https://www.superusers.dk/kursus/su0114/  
-[linkedin]: https://linkedin.com/in/martinmspedersen
-[twitter]: https://twitter.com/trxplayer
 
 ### Languages and Tools:
 

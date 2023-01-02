@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - I'm currently working on an [Ansible course][su0114]
-- 2022 Goals: Finish a book with 150 trax puzzles
+- 2023 Goals: Finish a book with 150 trax puzzles
 
 
 ### Connect with me:

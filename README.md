@@ -1,5 +1,8 @@
 ### Hi there, I'm Martin
 
+<img aling="left" src="https://projecteuler.net/profile/MartinMSPedersen.png" />
+
+
 <!--
 **MartinMSPedersen/MartinMSPedersen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +18,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- I'm currently working on an [Ansible course][su0114]
-- 2023 Goals: Finish a book with 150 trax puzzles
+### 2023 Goals
+- Finish a book with 150 trax puzzles
+- Lose weight
+- Drink less Cola
 
 
 ### Connect with me:
@@ -25,7 +30,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="martinmspedersen | twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br />
-
 
 ### Languages and Tools:
 
@@ -45,6 +49,5 @@ Here are some ideas to get you started:
 <br />
 
 [su0806]: https://www.superusers.dk/kursus/su0806/  
-[su0114]: https://www.superusers.dk/kursus/su0114/  
 [linkedin]: https://linkedin.com/in/martinmspedersen
 [twitter]: https://twitter.com/trxplayer

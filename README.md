@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 2023 Goals
+### 2024 Goals
 - Finish a book with 150 trax puzzles
 - Lose weight
 - Drink less Cola

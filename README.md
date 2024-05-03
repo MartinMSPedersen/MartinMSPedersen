@@ -48,6 +48,4 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-[su0806]: https://www.superusers.dk/kursus/su0806/  
 [linkedin]: https://linkedin.com/in/martinmspedersen
-[twitter]: https://twitter.com/trxplayer
